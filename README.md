@@ -13,5 +13,5 @@ For this tool to work, the installation of OpenCV library is required.
 - Windows: https://docs.opencv.org/4.x/d3/d52/tutorial_windows_install.html
 
 Folder arrangment:
-- Place your picture inside ’source code/ImageSteganography/image’ folder.
-- Place your text inside ’source code/ImageSteganography/message’ folder.
+- Place your picture inside ’image’ folder.
+- Place your text inside ’message’ folder.
